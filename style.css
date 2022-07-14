@@ -9,9 +9,9 @@ a {
 body {
   background: linear-gradient(
     196deg,
-    rgb(214, 57, 5) 10%,
-    rgb(146, 6, 168) 55%,
-    rgb(217, 254, 5) 86%
+    rgb(19, 7, 254) 10%,
+    rgb(3, 187, 243) 55%,
+    rgb(244, 244, 243) 86%
   );
   font-family: 'Robo', sans-serif;
 }
@@ -85,7 +85,7 @@ li:hover {
 .link {
   color: #11025bcb;
   font-size: 1.4rem;
-  animation: piscar infinite 0.5s;
+  animation: piscar infinite 0.3s;
   margin-bottom: 0.5rem;
 }
 @keyframes piscar {
@@ -97,7 +97,7 @@ li:hover {
   }
 }
 .um {
-  background: #059acbcb;
+  background: #02485fcb;
 }
 .dois {
   background: #1131c193;
@@ -109,7 +109,7 @@ li:hover {
 }
 footer {
   font-size: 0.75rem;
-  color: #fbfbfb;
+  color: #050000;
   font-weight: 500;
   opacity: 0.6;
 }
